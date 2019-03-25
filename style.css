@@ -124,11 +124,7 @@ a:focus {
 
 /* Remove Chrome Input Field's Unwanted Yellow Background Color */
 
-input:-webkit-autofill,
-input:-webkit-autofill:hover,
-input:-webkit-autofill:focus {
-    -webkit-box-shadow: 0 0 0px 1000px white inset !important;
-}
+
 
 /*--------------------
     CONTENT POSITION
@@ -332,7 +328,7 @@ input:-webkit-autofill:focus {
 }
 
 .section-padding {
-    padding: 100px 0;
+    padding: 1px 0;
     background: #ef494d none repeat scroll 0 0;
 }
 
